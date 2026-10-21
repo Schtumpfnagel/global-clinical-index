@@ -30,8 +30,8 @@ configs:
 # Global Clinical, Pharmaceutical & Regulatory Open Metadata Index (2024–2026)
 
 **Primary Institutional Terminal:** [Clinical Index (https://www.clinicalindex.org)](https://www.clinicalindex.org)  
-**Last Automated Sync:** `2026-10-21 09:45 UTC`  
-**Total Indexed Clinical & Regulatory Dossiers in Catalog:** `2,010`
+**Last Automated Sync:** `2026-10-21 10:46 UTC`  
+**Total Indexed Clinical & Regulatory Dossiers in Catalog:** `2,050`
 
 ---
 
